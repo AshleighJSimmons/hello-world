@@ -1,8 +1,10 @@
 # hello-world
 
-Hey There!
+## Hey There!
 
-I'm Ashleigh, and for the longest time my greatest wish?
+### *I'm Ashleigh*,
+
+For the longest time my *greatest wish?*
 Well, that Would've been to say that I was completeley Normal.
 
 But I'm NOT. 
